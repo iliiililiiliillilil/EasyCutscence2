@@ -69,7 +69,6 @@ EasyCutscene:startCutscence(cameras, 3, true, true)
 
 * Ensure all cameras are `BasePart` objects.
 * `CinematicBar` should have Frame children for top and bottom bars.
-* Tweens use `Sine` easing for smooth cinematic motion.
 
 ---
 
