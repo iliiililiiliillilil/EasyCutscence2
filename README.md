@@ -83,12 +83,11 @@ EasyCutscene:startCutscence(cameras, 3, true, true)
 ## Example Folder Structure
 
 ```
-EasyCutsceneModule
+EasyCutscene
 ├── Assets
 │   └── CinematicBar (ScreenGui)
-│       ├── TopBar (Frame)
-│       └── BottomBar (Frame)
-├── EasyCutsceneModule.lua
+│       ├── Bar1 (Frame)
+│       └── Bar2 (Frame)
 └── README.md
 ```
 
